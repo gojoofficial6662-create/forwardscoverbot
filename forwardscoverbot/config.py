@@ -34,6 +34,6 @@ except FileNotFoundError:
             "\nExample: <forwardscoverbot /home/my_files/config.yaml>")
     sys.exit()
 
-BOT_TOKEN = conf['bot_token']
-DB_PATH = conf['db_path']
-ADMINS = conf['admins']
+BOT_TOKEN = conf['8642217141:AAHQIPlPyanMo_1ruqXPSNvW8h3KKU1K9Yo']
+DB_PATH = conf['-1004394898139']
+ADMINS = conf['8632886111']
